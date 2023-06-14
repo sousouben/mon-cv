@@ -57,12 +57,29 @@ h1 {
   text-transform: uppercase;
 }
 
+h2 {
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--spacing-4);
+  font-size: var(--h2-font-size);
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+
 a {
   text-decoration: none;
   color: inherit;
 }
 
 p {
+  margin-bottom: var(--spacing-2);
+}
+
+ul {
+  padding: 1.3rem;
+}
+
+li {
   margin-bottom: var(--spacing-2);
 }
 
