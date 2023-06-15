@@ -18,3 +18,7 @@
   color: var(--icon-color);
   margin-right: 1rem;
 }
+
+.dark .user__info svg {
+  color: inherit;
+}
