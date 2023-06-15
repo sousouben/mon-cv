@@ -1,6 +1,8 @@
 import React from "react";
 import Skill from "./Skill";
 import Interests from "../interests/Interests";
+import Permis from "../vehicule/Permis";
+import Liens from "../liens/Liens";
 
 function Skills() {
   return (
@@ -19,6 +21,8 @@ function Skills() {
         <Skill title="Anglais" rating="2" />
       </div>
       <Interests />
+      <Permis />
+      <Liens />
     </>
   );
 }
