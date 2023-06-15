@@ -5,10 +5,11 @@ function Profil() {
     <div className="profil mb5">
       <h2 className="h2">Profil</h2>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores
-        quidem corporis nihil quibusdam omnis quam perspiciatis. Ea maxime
-        consequuntur molestiae modi placeat, officia ipsum blanditiis vitae quae
-        ex, veniam asperiores.
+        Développeuse junior React passionnée par la création d'applications web
+        innovantes et conviviales. Forte d'une solide base en développement web
+        et d'une connaissance approfondie de React, je suis déterminée à
+        contribuer à des projets ambitieux et à continuer d'apprendre et de me
+        perfectionner dans le domaine du développement frontend.
       </p>
     </div>
   );
