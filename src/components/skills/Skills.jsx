@@ -21,8 +21,8 @@ function Skills() {
         <Skill title="Anglais" rating="2" />
       </div>
       <Interests />
-      <Permis />
       <Liens />
+      <Permis />
     </>
   );
 }

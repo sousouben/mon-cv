@@ -96,6 +96,9 @@ p {
 ul {
   padding: 1.3rem;
 }
+.skills ul {
+  padding: 0 1.3rem 1.3rem 1.3rem;
+}
 
 li {
   margin-bottom: var(--spacing-2);
