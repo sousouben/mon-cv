@@ -39,3 +39,9 @@ npm start
 # avec Yarn
 yarn start
 ```
+
+---
+
+QrCode de mon cv
+
+![img](./public/images/qrcode.png)
