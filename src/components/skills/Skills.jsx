@@ -14,6 +14,7 @@ function Skills() {
         <Skill title="JAVASCRIPT" rating="3" />
         <Skill title="REACT" rating="3" />
         <Skill title="NODE" rating="2" />
+        <Skill title="WORDPRESS" rating="1" />
         <Skill title="FIGMA" rating="3" />
       </div>
       <div className="skills">
