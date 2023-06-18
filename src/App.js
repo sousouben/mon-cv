@@ -18,7 +18,11 @@ function App() {
           <div className="actions">
             <DarkMode />
             <button onClick={handlePrint}>
-              <FontAwesomeIcon icon={faPrint} style={{ color: "#f7f7f8" }} />
+              <FontAwesomeIcon
+                icon={faPrint}
+                size="xl"
+                style={{ color: "#9c3575" }}
+              />
             </button>
           </div>
 

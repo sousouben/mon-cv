@@ -9,25 +9,25 @@
 
 :root {
   /*colors*/
-  --body-bg-color: #ffff;
-  --sidebar-bg-color: #e183ef;
+  --body-bg-color: #faf5ff;
+  --sidebar-bg-color: #f3ddeb;
   --text-color: #090909;
-  --title-color: #393f82;
-  --date-color: #7c3d6a;
+  --title-color: #892f66;
+  --date-color: #9c3575;
 
   /*dark-body-bg-color*/
   --dark-body-bg-color: #0b0b0b;
-  --dark-sidebar-bg-color: #662670;
+  --dark-sidebar-bg-color: #140821;
   --dark-text-color: #f6f3f3;
-  --dark-title-color: #1426ef;
-  --dark-date-color: #e413a9;
+  --dark-title-color: #61c17e;
+  --dark-date-color: #3debde;
 
   --icon-color: var(--text-color);
   --circle-color: #9c5e8b;
   --circle-color-plain: #a8e5ba;
 
   --dark-icon-color: var(--text-color);
-  --dark-circle-color: #f109b3;
+  --dark-circle-color: #da73dd;
   --dark-circle-color-plain: #4bf07c;
 
   /*fonts*/

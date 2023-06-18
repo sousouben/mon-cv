@@ -44,9 +44,9 @@ function DarkMode() {
       onClick={(e) => switchTheme(e)}
     >
       {themeMode === "light" || theme === "light" ? (
-        <FontAwesomeIcon icon={faMoon} style={{ color: "#f2f4f7" }} />
+        <FontAwesomeIcon icon={faMoon} size="xl" style={{ color: "#892f66" }} />
       ) : (
-        <FontAwesomeIcon icon={faSun} style={{ color: "#e6f604" }} />
+        <FontAwesomeIcon icon={faSun} size="xl" style={{ color: "#e6f604" }} />
       )}
     </button>
   );
