@@ -6,7 +6,6 @@ import Experiences from "./Experiences";
 import dataExperiences from "../../datas/Experiences";
 
 function FormationsExperiences() {
-  console.log(dataExperiences);
   return (
     <>
       <Formations datas={dataFormations} />
