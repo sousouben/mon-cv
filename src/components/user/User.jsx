@@ -14,7 +14,7 @@ function User() {
     <div className="user">
       <img src="./images/profile.png" alt="profile" className="avatar" />
       <h1 className="user__name">Souad MOUATAKIDE</h1>
-      <p className="user__profession">Développeuse web</p>
+      <p className="user__profession">Développeuse web et mobile</p>
       <div className="user__infos">
         <p className="user__info">
           <a href="https://goo.gl/maps/RJnZeBcA8Kwdp4Wz9" target="__blanc">

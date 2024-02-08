@@ -1,6 +1,44 @@
 export const dataExperiences = [
   {
     id: 1,
+    title: "Formation développeuse WordPress",
+    date: "06/2023 - 03/2024",
+    location: "Télétravail",
+    text: "La formation de développeur wordpress est un programme intensif destiné aux développeurs souhaitant maîtriser les CMS. En mettant l'accent sur WordPress, cette formation offre une compréhension approfondie du language PHP et Javascript pour les appliquer efficacement avec WordPress.",
+    missions: [
+      {
+        id: 1,
+        title:
+          "Personnalisez un thème WordPress pour une startup avec HTML, CSS et PHP",
+      },
+      {
+        id: 2,
+        title:
+          "Optimisez un site WordPress existant pour une marque de vêtements",
+      },
+      {
+        id: 3,
+        title:
+          "Améliorez le site d'un studio d'animation avec JavaScript et des animations CSS ",
+      },
+      {
+        id: 4,
+        title: "Débuggez et testez un site WordPress d'outillage médical",
+      },
+      {
+        id: 5,
+        title:
+          "Créez un site WordPress complexe pour une photographe freelance",
+      },
+      {
+        id: 6,
+        title:
+          "Planifiez le développement d'un site de vente de vélos électriques",
+      },
+    ],
+  },
+  {
+    id: 2,
     title: "Formation conceptrice logiciel javascript REACT",
     date: "05/2022 - 05/2023",
     location: "Télétravail",
@@ -42,7 +80,7 @@ export const dataExperiences = [
     ],
   },
   {
-    id: 2,
+    id: 3,
     title: "Formation webmarketer",
     date: "11/2021 - 03/2022",
     location: "Télétravail",
@@ -79,7 +117,7 @@ export const dataExperiences = [
     ],
   },
   {
-    id: 3,
+    id: 4,
     title: "Formation développeuse web et mobile",
     date: "12/2020 - 08/2021",
     location: "Télétravail",
