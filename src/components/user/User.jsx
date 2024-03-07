@@ -17,8 +17,9 @@ function User() {
       <p className="user__profession">Développeuse web et mobile</p>
       <div className="user__infos">
         <p className="user__info">
-          <a href="https://goo.gl/maps/RJnZeBcA8Kwdp4Wz9" target="__blanc">
-            <FontAwesomeIcon icon={faHouse} /> 8 rue Henri Jumelle 28100 Dreux
+          <a href="https://maps.app.goo.gl/dutzLmRbcxAcntid9" target="__blanc">
+            <FontAwesomeIcon icon={faHouse} />
+            Dreux
           </a>
         </p>
         <p className="user__info">
@@ -27,8 +28,8 @@ function User() {
           </a>
         </p>
         <p className="user__info">
-          <a href="mailto:s.mouatakide@laposte.net">
-            <FontAwesomeIcon icon={faAt} /> s.mouatakide@laposte.net
+          <a href="mailto:mouatakide@gmail.com">
+            <FontAwesomeIcon icon={faAt} /> mouatakide@gmail.com
           </a>
         </p>
         <p className="user__info">
