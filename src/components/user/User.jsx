@@ -13,13 +13,13 @@ function User() {
   return (
     <div className="user">
       <img src="./images/profile.png" alt="profile" className="avatar" />
-      <h1 className="user__name">Souad MOUATAKIDE</h1>
+      <h1 className="user__name">wpdevdesigns</h1>
       <p className="user__profession">Développeuse web et mobile</p>
       <div className="user__infos">
         <p className="user__info">
-          <a href="https://maps.app.goo.gl/dutzLmRbcxAcntid9" target="__blanc">
+          <a href="https://maps.app.goo.gl/UVL1xLMr2wdBRPAfA" target="__blanc">
             <FontAwesomeIcon icon={faHouse} />
-            Dreux
+            France
           </a>
         </p>
         <p className="user__info">
