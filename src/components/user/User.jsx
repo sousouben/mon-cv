@@ -7,6 +7,8 @@ import {
   faPhone,
   faCalendarDays,
   faFlag,
+  faInfo,
+  faCircleInfo,
 } from "@fortawesome/free-solid-svg-icons";
 
 function User() {
@@ -38,6 +40,9 @@ function User() {
         </p>
         <p className="user__info">
           <FontAwesomeIcon icon={faFlag} /> Nationalité: Française
+        </p>
+        <p className="user__info">
+          <FontAwesomeIcon icon={faCircleInfo} /> CV réalisé en REACT JS
         </p>
       </div>
     </div>
