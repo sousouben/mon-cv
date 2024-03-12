@@ -19,9 +19,9 @@ function User() {
       <p className="user__profession">Développeuse web et mobile</p>
       <div className="user__infos">
         <p className="user__info">
-          <a href="https://maps.app.goo.gl/UVL1xLMr2wdBRPAfA" target="__blanc">
+          <a href="https://maps.app.goo.gl/THeFYLEmpQg6qCeeA" target="__blanc">
             <FontAwesomeIcon icon={faHouse} />
-            France
+            PARIS ET PÉRIPHÉRIQUES
           </a>
         </p>
         <p className="user__info">
