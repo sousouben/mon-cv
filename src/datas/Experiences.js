@@ -4,7 +4,7 @@ export const dataExperiences = [
     title: "Formation développeuse WordPress",
     date: "06/2023 - 03/2024",
     location: "Télétravail",
-    text: "La formation de développeur wordpress est un programme intensif destiné aux développeurs souhaitant maîtriser les CMS. En mettant l'accent sur WordPress, cette formation offre une compréhension approfondie du language PHP et Javascript pour les appliquer efficacement avec WordPress.",
+    text: "La formation de développeur wordpress est un programme intensif destiné aux développeurs souhaitant maîtriser les CMS. En mettant l'accent sur WordPress, cette formation offre une compréhension approfondie du langage PHP et Javascript pour les appliquer efficacement avec WordPress.",
     missions: [
       {
         id: 1,

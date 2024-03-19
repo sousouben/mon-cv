@@ -7,7 +7,6 @@ import {
   faPhone,
   faCalendarDays,
   faFlag,
-  faInfo,
   faCircleInfo,
 } from "@fortawesome/free-solid-svg-icons";
 

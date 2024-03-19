@@ -18,6 +18,11 @@ function Liens() {
             Linkedin
           </a>
         </li>
+        <li>
+          <a href="https://wpdevdesigns.fr/" target="_blanc">
+            Portfolio
+          </a>
+        </li>
       </ul>
     </div>
   );
