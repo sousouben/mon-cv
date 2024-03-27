@@ -20,7 +20,7 @@ function User() {
         <p className="user__info">
           <a href="https://maps.app.goo.gl/THeFYLEmpQg6qCeeA" target="__blanc">
             <FontAwesomeIcon icon={faHouse} />
-            PARIS ET PÉRIPHÉRIQUES
+            PARIS ET IDF
           </a>
         </p>
         <p className="user__info">
