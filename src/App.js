@@ -9,7 +9,15 @@ import { faPrint } from "@fortawesome/free-solid-svg-icons";
 
 function App() {
   const handlePrint = () => {
-    window.print("Souad BENHABBOUR.pdf");
+    const pdfWindow = window.open("/images/cv.pdf", "_blank");
+    if (pdfWindow) {
+      pdfWindow.addEventListener("load", () => {
+        pdfWindow.focus();
+        pdfWindow.print();
+      });
+    } else {
+      alert("Veuillez autoriser les pop-ups pour imprimer le fichier.");
+    }
   };
   return (
     <div className="App">
