@@ -9,7 +9,7 @@ import { faPrint } from "@fortawesome/free-solid-svg-icons";
 
 function App() {
   const handlePrint = () => {
-    window.print();
+    window.print("Souad BENHABBOUR.pdf");
   };
   return (
     <div className="App">
