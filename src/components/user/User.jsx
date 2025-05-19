@@ -29,8 +29,8 @@ function User() {
           </a>
         </p>
         <p className="user__info">
-          <a href="mailto:s.benhabbour@hotmail.com">
-            <FontAwesomeIcon icon={faAt} /> s.benhabbour@hotmail.com
+          <a href="mailto:mouatakide@gmail.com">
+            <FontAwesomeIcon icon={faAt} /> mouatakide@gmail.com
           </a>
         </p>
         <p className="user__info">
