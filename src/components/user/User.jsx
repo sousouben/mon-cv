@@ -15,12 +15,14 @@ function User() {
     <div className="user">
       <img src="./images/profile.png" alt="profile" className="avatar" />
       <h1 className="user__name">wpdevdesigns</h1>
-      <p className="user__profession">Développeuse web et mobile</p>
+      <p className="user__profession">
+        Développeuse Web Full Stack | Spécialiste WordPress & React | Formatrice
+      </p>
       <div className="user__infos">
         <p className="user__info">
           <a href="https://maps.app.goo.gl/THeFYLEmpQg6qCeeA" target="__blanc">
             <FontAwesomeIcon icon={faHouse} />
-            PARIS ET IDF
+            France
           </a>
         </p>
         <p className="user__info">
@@ -29,13 +31,12 @@ function User() {
           </a>
         </p>
         <p className="user__info">
-          <a href="mailto:mouatakide@gmail.com">
-            <FontAwesomeIcon icon={faAt} /> mouatakide@gmail.com
+          <a href="mailto:wpdevdesigns@outlook.fr">
+            <FontAwesomeIcon icon={faAt} /> wpdevdesigns@outlook.fr
           </a>
         </p>
         <p className="user__info">
-          <FontAwesomeIcon icon={faCalendarDays} /> Date de naissance: 20
-          janvier 1982
+          <FontAwesomeIcon icon={faCalendarDays} /> Age: 43 ans
         </p>
         <p className="user__info">
           <FontAwesomeIcon icon={faFlag} /> Nationalité: Française

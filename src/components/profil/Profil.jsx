@@ -5,11 +5,10 @@ function Profil() {
     <div className="profil mb5">
       <h2 className="h2">Profil</h2>
       <p>
-        Développeuse web et mobile passionnée par la création d'application web
-        innovantes et conviviales. Forte d'une solide base en développement web
-        et d'une connaissance approfondie du CMS WordPress, je suis déterminée à
-        contribuer à des projets ambitieux et à continuer d'apprendre et de me
-        perfectionner dans le domaine du développement web.
+        Développeuse full stack passionnée, spécialisée en WordPress, JavaScript
+        et React. J’aime concevoir des solutions web performantes, accessibles
+        et pédagogiques. Curieuse et rigoureuse, je suis motivée par
+        l’amélioration continue et la transmission de savoirs techniques.
       </p>
     </div>
   );
