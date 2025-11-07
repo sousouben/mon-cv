@@ -13,8 +13,8 @@ import {
 function User() {
   return (
     <div className="user">
-      <img src="./images/profile.png" alt="profile" className="avatar" />
-      <h1 className="user__name">wpdevdesigns</h1>
+      <img src="./images/digital-agence.png" alt="profile" className="avatar" />
+      <h1 className="user__name">Digital Agence</h1>
       <p className="user__profession">
         Développeuse Web Full Stack | Spécialiste WordPress & React | Formatrice
       </p>
@@ -31,8 +31,8 @@ function User() {
           </a>
         </p>
         <p className="user__info">
-          <a href="mailto:wpdevdesigns@outlook.fr">
-            <FontAwesomeIcon icon={faAt} /> wpdevdesigns@outlook.fr
+          <a href="mailto:digitalagence28@gmail.com">
+            <FontAwesomeIcon icon={faAt} /> digitalagence28@gmail.com
           </a>
         </p>
         <p className="user__info">
